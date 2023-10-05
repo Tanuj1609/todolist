@@ -15,4 +15,20 @@ Utilized CSS for responsive design, ensuring a seamless experience on various de
 
 Technologies Used:
 
-Built using HTML, CSS, and JavaScript, Node.js, Express.js, Middleware, Embedded JS, MongoDB, Mongoose.
+HTML
+
+CSS
+
+JavaScript
+
+Node.js 
+
+Express.js
+
+Middleware
+
+Embedded JS
+
+MongoDB
+
+Mongoose
